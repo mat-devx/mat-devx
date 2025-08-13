@@ -24,7 +24,7 @@ Hi! I'm **Mathew Valiente**, a passionate junior web developer focused on creati
 ## 🔧 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,framer,laravel,cs,vscode" alt="Tech stack" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,laravel,cs,vscode" alt="Tech stack" height="48"/>
 </div>
 
 ---
@@ -49,5 +49,5 @@ Hi! I'm **Mathew Valiente**, a passionate junior web developer focused on creati
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFA500&center=true&vCenter=true&width=440&lines=printf(%22Hello,+World!%22);Coding+in+Style+with+mat-devx" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFA500&center=true&vCenter=true&width=440&lines=printf(%22Hello,+World!%22);Code+eat+Sleep+with+mat-devx" alt="Typing SVG" />
 </p>
