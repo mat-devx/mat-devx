@@ -1,7 +1,5 @@
 # 🚀 Junior Web Dev 
 
-(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=mat-devx%20Web%20Dev&fontSize=38&fontAlignY=30&desc=Modern%20Web%20Experiments%20with%20Animations%20%26%20Icons&descAlignY=60)
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -15,7 +13,7 @@
 
 ## ✨ About Me
 
-Hi! I'm **mat-devx**, a passionate junior web developer focused on creating modern, interactive websites with smooth animations and crisp icons. I love experimenting with CSS, JavaScript, and animation libraries to make web experiences fun and engaging!
+Hi! I'm **Mathew Valiente**, a passionate junior web developer focused on creating modern, interactive websites with smooth animations and crisp icons. I love experimenting with CSS, JavaScript, and animation libraries to make web experiences fun and engaging!
 
 - 🧑‍💻 Building real-world projects & learning modern frameworks
 - 🎨 Crafting UIs that are both beautiful & user-friendly
