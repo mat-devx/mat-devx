@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -18,24 +19,14 @@ Hi! I'm **mat-devx**, a passionate junior web developer focused on creating mode
 
 - 🧑‍💻 Building real-world projects & learning modern frameworks
 - 🎨 Crafting UIs that are both beautiful & user-friendly
-- ⚡️ Animating with [GSAP](https://greensock.com/gsap/) & [Framer Motion](https://www.framer.com/motion/)
-- 🛠️ Always exploring new tools & best practices
+ - 🛠️ Always exploring new tools & best practices
 
 ---
-
-## 🌟 Featured Projects
-
-  Tech | Preview |
-  ---- | ------- |
- (https://github.com/mat-devx/animated-navbar) | HTML, CSS, JS, GSAP | ![Navbar Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U4eGIzb3NzdzAxb3MwdW0ya24yYmNqMm1ydmV3bXJ0NjMwdnZ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif) |
- (https://github.com/mat-devx/portfolio) | React, Framer Motion | ![Portfolio Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U4eGIzb3NzdzAxb3MwdW0ya24yYmNqMm1ydmV3bXJ0NjMwdnZ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif) |
-
----
-
+ 
 ## 🔧 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,gsap,framer" alt="Tech stack" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,framer,laravel,cs,vscode" alt="Tech stack" height="48"/>
 </div>
 
 ---
@@ -60,5 +51,5 @@ Hi! I'm **mat-devx**, a passionate junior web developer focused on creating mode
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Modern+Web+Dev+with+Animation;Let%27s+build+awesome+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFA500&center=true&vCenter=true&width=440&lines=printf(%22Hello,+World!%22);Coding+in+Style+with+mat-devx" alt="Typing SVG" />
 </p>
