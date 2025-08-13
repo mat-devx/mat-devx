@@ -1,6 +1,6 @@
 # 🚀 Junior Web Dev Portfolio & Playground
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=mat-devx%20Web%20Dev&fontSize=38&fontAlignY=30&desc=Modern%20Web%20Experiments%20with%20Animations%20%26%20Icons&descAlignY=60)
+![ ](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=mat-devx%20Web%20Dev&fontSize=38&fontAlignY=30&desc=Modern%20Web%20Experiments%20with%20Animations%20%26%20Icons&descAlignY=60)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
