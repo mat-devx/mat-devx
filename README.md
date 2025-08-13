@@ -13,7 +13,7 @@
 
 ## ✨ About Me
 
-Hi! I'm **Mathew Valiente**, a passionate junior web developer focused on creating modern, interactive websites with smooth animations and crisp icons. I love experimenting with CSS, JavaScript, and animation libraries to make web experiences fun and engaging!
+Hi, I’m Mathew Valiente! I'm a passionate junior web developer and aspiring software engineer, with a strong interest in AI and cutting-edge technologies. As a student, I’m focused on building interactive websites using CSS, JavaScript, and animation libraries. But my curiosity doesn’t stop there—I’m eager to expand my skills into areas like AI development, machine learning, and software engineering to create intelligent, scalable applications.
 
 - 🧑‍💻 Building real-world projects & learning modern frameworks
 - 🎨 Crafting UIs that are both beautiful & user-friendly
