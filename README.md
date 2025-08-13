@@ -25,10 +25,10 @@ Hi! I'm **mat-devx**, a passionate junior web developer focused on creating mode
 
 ## 🌟 Featured Projects
 
-| Project | Tech | Preview |
-| ------- | ---- | ------- |
-| [Animated Navbar](https://github.com/mat-devx/animated-navbar) | HTML, CSS, JS, GSAP | ![Navbar Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U4eGIzb3NzdzAxb3MwdW0ya24yYmNqMm1ydmV3bXJ0NjMwdnZ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif) |
-| [Modern Portfolio](https://github.com/mat-devx/portfolio) | React, Framer Motion | ![Portfolio Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U4eGIzb3NzdzAxb3MwdW0ya24yYmNqMm1ydmV3bXJ0NjMwdnZ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif) |
+  Tech | Preview |
+  ---- | ------- |
+ (https://github.com/mat-devx/animated-navbar) | HTML, CSS, JS, GSAP | ![Navbar Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U4eGIzb3NzdzAxb3MwdW0ya24yYmNqMm1ydmV3bXJ0NjMwdnZ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif) |
+ (https://github.com/mat-devx/portfolio) | React, Framer Motion | ![Portfolio Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U4eGIzb3NzdzAxb3MwdW0ya24yYmNqMm1ydmV3bXJ0NjMwdnZ0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif) |
 
 ---
 
