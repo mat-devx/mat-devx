@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 170" width="860" height="170" role="img" aria-label="Mathew Valiente — AI Engineer, Voice AI, Full-Stack Developer">
+  <title>Mathew Valiente — AI Engineer</title>
+
+  <defs>
+    <!-- radial gradients instead of blurred ellipses: same soft orb, no filter repaint -->
+    <radialGradient id="orbCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-color="#22D3EE" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.20"/>
+      <stop offset="0.55" stop-color="#8B5CF6" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="0.6" stop-color="#22D3EE" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="frame">
+      <rect x="1" y="1" width="858" height="168" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="168" rx="14" fill="#050505"/>
+
+  <g clip-path="url(#frame)">
+    <!-- ambient depth: transform-only drift, ~28s, barely perceptible -->
+    <g opacity="0.9">
+      <ellipse cx="120" cy="160" rx="430" ry="210" fill="url(#orbCyan)">
+        <animateTransform attributeName="transform" type="translate"
+                          values="-30 0; 40 -22; -30 0" dur="28s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="780" cy="0" rx="420" ry="200" fill="url(#orbViolet)">
+        <animateTransform attributeName="transform" type="translate"
+                          values="20 10; -36 26; 20 10" dur="34s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- masthead -->
+    <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, 'Cascadia Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace">
+      <text x="44" y="42" font-size="11" letter-spacing="1.6" fill="#6E7480" xml:space="preserve">@mat-devx</text>
+      <text x="816" y="42" text-anchor="end" font-size="11" letter-spacing="1.6" fill="#6E7480" xml:space="preserve">dipolog, philippines</text>
+    </g>
+    <line x1="44" y1="58" x2="816" y2="58" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+
+    <!-- reveal: staggered fade + rise, transform/opacity only, one-shot.
+         Animations live on wrapper <g> elements, not inside <text>. -->
+    <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, 'Cascadia Mono', 'JetBrains Mono', 'Fira Code', Consolas, monospace">
+      <g>
+        <animate attributeName="opacity" values="0;1" dur="0.7" begin="0.18" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+        <animateTransform attributeName="transform" type="translate" values="0 10;0 0" dur="0.7" begin="0.18" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+        <text x="44" y="112" font-size="37" font-weight="600" letter-spacing="1.2" fill="#FAFAFA" xml:space="preserve">MATHEW VALIENTE</text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;1" dur="0.7" begin="0.38" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+        <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.7" begin="0.38" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+        <text x="44" y="141" font-size="13.5" letter-spacing="0.3" fill="#8B9099" xml:space="preserve">AI Engineer &#183; Voice AI &#183; LLM + RAG &#183; Full-Stack</text>
+      </g>
+    </g>
+
+    <!-- rule draws in via transform scale, never by animating width -->
+    <g transform="translate(44,156)">
+      <rect x="0" y="0" width="170" height="1.4" fill="url(#rule)"/>
+      <animateTransform attributeName="transform" additive="sum" type="scale"
+                        values="0 1; 1 1" dur="0.9" begin="0.6" fill="freeze"
+                        calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
+    </g>
+  </g>
+
+  <!-- hairline only: no colour, no dash chase -->
+  <rect x="1" y="1" width="858" height="168" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1"/>
+</svg>
