@@ -11,36 +11,20 @@ assets/banner.svg
 assets/mark.svg
 assets/panel.svg
 assets/divider.svg
-.github/workflows/snake.yml
 ```
 
-Easiest route without the `gh` CLI — drag-and-drop on GitHub:
+This folder is already a git repo on branch `main` with `origin` set to
+`https://github.com/mat-devx/mat-devx.git`. To publish:
 
-1. Go to https://github.com/mat-devx/mat-devx
-2. Delete the existing `README.md` (tick "Add a file" → upload, it will ask to overwrite — accept).
-3. Upload the four files from `assets/` into an `assets/` folder.
-4. Create `.github/workflows/snake.yml`.
-
-Or with git:
-
-```bash
-cd mat-devx
-cp "C:\Users\MatiCuhcuH\Downloads\mat-devx-profile\README.md" .
-cp -r "C:\Users\MatiCuhcuH\Downloads\mat-devx-profile\assets" .
-mkdir -p .github\workflows
-cp "C:\Users\MatiCuhcuH\Downloads\mat-devx-profile\.github\workflows\snake.yml" .github\workflows\
-git add -A && git commit -m "profile: animated AI-engineer README" && git push
+```powershell
+cd C:\Users\MatiCuhcuH\Downloads\mat-devx-profile
+git add -A
+git commit -m "profile: update README"
+git push -f origin main
 ```
 
-## Required one-time step: activate the snake
-
-The contribution snake will show a broken image until the workflow has run once.
-
-1. Repo → **Actions** tab → **Generate contribution snake**
-2. Click **Run workflow**
-3. Wait ~30s, then hard-refresh your profile page (Ctrl+Shift+R).
-
-It then re-runs every 6 hours automatically and commits to the `output` branch.
+Force-push because the remote repo has its own unrelated commit history and the
+README was replaced wholesale.
 
 ## Separate, do this yourself
 
@@ -61,11 +45,11 @@ it contradicts the whole page. Change it in **Settings → Profile → Bio** to 
   are system monospace fallbacks that resolve everywhere.
 - **`divider.svg` uses `gradientUnits="userSpaceOnUse"`** because a horizontal `<line>` has a
   zero-height bounding box, and object-bounding-box gradients never paint there.
-- **Third-party services in use** (all verified live): readme-typing-svg, github-readme-stats,
-  github-readme-streak-stats, skillicons, shields.io. Nothing else is required — notably
-  `github-profile-trophy`, `github-readme-activity-graph`, `github-readme-quotes` and
-  `github-skyline` are all currently returning 402/404, so they are deliberately avoided.
-- Only external images are the three stats cards; everything visual you own is local.
+- **Third-party services in use:** readme-typing-svg, skillicons, shields.io. All verified
+  live. Nothing else is required — the contribution snake, `github-readme-stats` and
+  `github-readme-streak-stats` cards were all removed, so there are no remaining
+  dependencies on those services (several are unmaintained and return 402/404 anyway).
+- Every image on the page is either a local asset or one of the three services above.
 
 ## Optional follow-up
 

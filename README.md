@@ -8,12 +8,13 @@
 
 I'm an **AI Engineer and Full-Stack Developer** based in Dipolog City, Philippines. I build end-to-end web systems with a focus on voice AI — speech-to-text, conversational models, and retrieval-augmented generation — wired into production-shaped applications rather than demos.
 
-My strongest axis is **schema to deployment**: requirements gathering with stakeholders, database design, role-based access control, the interface, and the pipeline that ships it.
-
 - Built **VAL.AI**, a voice-first journal where you speak naturally and receive AI responses back
 - Shipped a **Laravel/MySQL attendance platform** handling **200+ students per year** at DOST
 - Cut administrative reporting time by **~30%** through automated report generation
 - Deepening **LLM + RAG**, agents, and database design
+
+**Open to work** — available for full-time roles, freelance projects, and long-term
+collaborations. Based in Dipolog City, Philippines; open to remote and hybrid work.
 
 <br>
 
@@ -30,31 +31,9 @@ My strongest axis is **schema to deployment**: requirements gathering with stake
 
 <div align="center">
 <img src="./assets/divider.svg" width="860" alt="" />
-<br><br>
-<img src="https://raw.githubusercontent.com/mat-devx/mat-devx/output/github-contribution-grid-snake-dark.svg" width="820" alt="Contribution snake animation built from my GitHub commit data" />
-<br><br>
-<img src="./assets/divider.svg" width="860" alt="" />
 </div>
 
 <br>
-
-<table>
-  <tr>
-    <td width="470"><img src="https://github-readme-stats.vercel.app/api?username=mat-devx&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;locale=en" alt="GitHub stats" /></td>
-    <td width="340"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-devx&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" alt="Top languages" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mat-devx&amp;theme=github-dark&amp;hide_border=true" width="470" alt="Contribution streak" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="./assets/divider.svg" width="860" alt="" />
-</div>
 
 ## Stack
 
@@ -73,40 +52,6 @@ My strongest axis is **schema to deployment**: requirements gathering with stake
 **Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&amp;theme=dark" alt="Git, GitHub, Docker, VS Code" /><img src="https://img.shields.io/badge/GitHub%20Actions-111114?style=flat-square" alt="GitHub Actions" /><img src="https://img.shields.io/badge/Vercel-111114?style=flat-square" alt="Vercel" />
-
-<br>
-
-<div align="center">
-<img src="./assets/divider.svg" width="860" alt="" />
-</div>
-
-## Selected work
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <b>VAL.AI</b><br>
-      <sub>Voice-first AI journal</sub><br><br>
-      Speak naturally and receive AI responses back — Whisper speech-to-text paired with a conversational model, turning spoken input into intelligent replies. Every interaction persists as a structured, editable entry rather than a raw transcript.<br><br>
-      <sub>Next.js 16 &#183; React 19 &#183; TypeScript &#183; Tailwind v4 &#183; Supabase</sub><br>
-      <sub><i>in development</i></sub>
-    </td>
-    <td valign="top" width="33%">
-      <b>IBDMS</b><br>
-      <sub>Integrated Barangay Document Management System</sub><br><br>
-      Digitises document processing, resident records and administrative approvals, with secure authentication, role-based authorisation, an approval workflow, and PDF generation for official output.<br><br>
-      <sub>Laravel &#183; React &#183; TypeScript &#183; MySQL</sub><br>
-      <sub><a href="https://github.com/mat-devx/BDocuLink">source</a></sub>
-    </td>
-    <td valign="top" width="33%">
-      <b>SmartVote</b><br>
-      <sub>Voting platform</sub><br><br>
-      A Laravel voting system covering ballot construction, candidacy and result tabulation on a relational schema for candidates, positions and returns.<br><br>
-      <sub>Laravel &#183; Blade &#183; MySQL</sub><br>
-      <sub><a href="https://github.com/mat-devx/SmartVote">source</a></sub>
-    </td>
-  </tr>
-</table>
 
 <br>
 

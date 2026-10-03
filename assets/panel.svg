@@ -180,7 +180,7 @@
       <circle cx="37" cy="303" r="3.2" fill="#34D399">
         <animate attributeName="opacity" values="1;0.28;1" dur="2.6s" begin="1.4" repeatCount="indefinite"/>
       </circle>
-      <text x="50" y="307" fill="#6E7480" xml:space="preserve">OPEN TO OJT &amp; INTERNSHIPS
+      <text x="50" y="307" fill="#6E7480" xml:space="preserve">OPEN TO WORK
         <animate attributeName="opacity" values="0;1" dur="0.6" begin="1" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/>
       </text>
       <text x="526" y="307" text-anchor="end" fill="#4A5058" xml:space="preserve">DIPOLOG CITY, PH
