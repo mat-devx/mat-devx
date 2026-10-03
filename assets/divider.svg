@@ -5,12 +5,21 @@
       box, and objectBoundingBox gradients are undefined (and never paint) there.
       Mid-neutral grey so the rule reads on both GitHub themes.
     -->
-    <linearGradient id="hair" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="860" y2="0">
-      <stop offset="0" stop-color="#7A7F87" stop-opacity="0"/>
+    <linearGradient id="dhair" gradientUnits="userSpaceOnUse" x1="24" y1="0" x2="860" y2="0">
+      <stop offset="0" stop-color="#7A7F87" stop-opacity="0.30"/>
       <stop offset="0.16" stop-color="#7A7F87" stop-opacity="0.34"/>
       <stop offset="0.84" stop-color="#7A7F87" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#7A7F87" stop-opacity="0"/>
     </linearGradient>
+
+    <linearGradient id="dtail" gradientUnits="userSpaceOnUse" x1="24" y1="0" x2="96" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
   </defs>
-  <line x1="0" y1="7" x2="860" y2="7" stroke="url(#hair)" stroke-width="1"/>
+
+  <!-- prompt chevron, drawn as geometry so no viewer needs the ❯ glyph -->
+  <path d="M4,4 L11.5,7 L4,10" fill="none" stroke="#22D3EE" stroke-opacity="0.5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="24" y="6.3" width="72" height="1.2" fill="url(#dtail)"/>
+  <line x1="24" y1="7" x2="860" y2="7" stroke="url(#dhair)" stroke-width="1"/>
 </svg>
