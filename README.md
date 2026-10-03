@@ -1,84 +1,213 @@
 <div align="center">
-<img src="./assets/banner.svg" width="860" alt="Mathew Valiente — AI Engineer, Voice AI, Full-Stack Developer" />
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=4500&amp;pause=1200&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;multiline=true&amp;lines=Building%20voice-first%20applications%20with%20Whisper%2C%20LLMs%20and%20RAG.%0AFull-stack%20across%20Next.js%2C%20Laravel%20and%20Supabase." width="700" alt="Building voice-first applications with Whisper, LLMs and RAG" />
+
+# Mathew Valiente
+
+### AI Engineer · Full-Stack Developer · Voice AI
+
+**I build AI-powered products that can listen, reason, retrieve, and act.**
+
+Voice interfaces · LLMs · RAG · AI Agents · Full-Stack Systems
+
+<br>
+
+<a href="https://github.com/mat-devx">
+  <img src="https://img.shields.io/badge/GitHub-mat--devx-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/mathew-valiente-10952319b">
+  <img src="https://img.shields.io/badge/LinkedIn-Mathew%20Valiente-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mathewvaliente20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
-<br>
+---
 
-I'm an **AI Engineer and Full-Stack Developer** based in Dipolog City, Philippines. I build end-to-end web systems with a focus on voice AI — speech-to-text, conversational models, and retrieval-augmented generation — wired into production-shaped applications rather than demos.
+## About
 
-- Built **VAL.AI**, a voice-first journal where you speak naturally and receive AI responses back
-- Shipped a **Laravel/MySQL attendance platform** handling **200+ students per year** at DOST
-- Cut administrative reporting time by **~30%** through automated report generation
-- Deepening **LLM + RAG**, agents, and database design
+I'm an **AI Engineer and Full-Stack Developer** based in the Philippines, focused on building practical AI systems and production-ready web applications.
 
-**Open to work** — available for full-time roles, freelance projects, and long-term
-collaborations. Based in Dipolog City, Philippines; open to remote and hybrid work.
+My work sits at the intersection of **AI, voice, and software engineering** — from speech recognition and conversational models to retrieval systems, agents, databases, and polished web interfaces.
 
-<br>
+I enjoy taking an idea from **concept → architecture → implementation → deployment**.
 
-<div align="center">
-<table>
-  <tr>
-    <td valign="top" width="260"><img src="./assets/mark.svg" width="260" alt="MV monogram" /></td>
-    <td valign="top" width="555"><img src="./assets/panel.svg" width="555" alt="Role, focus, stack, backend, shipped, impact, built, availability" /></td>
-  </tr>
-</table>
-</div>
+### Currently focused on
 
-<br>
+* 🤖 **AI Agents** and tool-using systems
+* 🎙️ **Voice AI** and conversational interfaces
+* 🧠 **LLMs, RAG, and prompt engineering**
+* ⚡ **Next.js and modern full-stack applications**
+* 🗄️ **Database architecture and backend systems**
+* 🛠️ Turning AI prototypes into usable products
 
-<div align="center">
-<img src="./assets/divider.svg" width="860" alt="" />
-</div>
+---
 
-<br>
+## What I've Built
 
-## Stack
+### 🎙️ VAL.AI
 
-**AI & Voice**
+A **voice-first AI journal** designed around natural conversation.
 
-<img src="https://img.shields.io/badge/Whisper%20STT-111114?style=flat-square" alt="Whisper STT" /><img src="https://img.shields.io/badge/ElevenLabs%20TTS-111114?style=flat-square" alt="ElevenLabs TTS" /><img src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-111114?style=flat-square" alt="Retrieval Augmented Generation" /><img src="https://img.shields.io/badge/Prompt%20Engineering-111114?style=flat-square" alt="Prompt engineering" /><img src="https://img.shields.io/badge/Conversational%20AI-111114?style=flat-square" alt="Conversational AI" />
+Instead of typing entries, users can speak naturally and receive AI-generated responses.
 
-**Frontend**
+**Focus:** Voice UX · Speech-to-Text · LLMs · Conversational AI · RAG
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+---
 
-**Backend & Data**
+### 📋 OJT & Immersion Attendance System
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,supabase&amp;theme=dark" alt="Laravel, PHP, MySQL, Supabase" />
+A production attendance platform built for the **Department of Science and Technology (DOST)**.
 
-**Tooling**
+* Handles **200+ students per year**
+* Built with Laravel, React, TypeScript, MySQL, Inertia.js, and Tailwind CSS
+* Implemented role-based access control
+* Designed the underlying database architecture
+* Automated administrative reporting
+* Reduced reporting time by approximately **30%**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&amp;theme=dark" alt="Git, GitHub, Docker, VS Code" /><img src="https://img.shields.io/badge/GitHub%20Actions-111114?style=flat-square" alt="GitHub Actions" /><img src="https://img.shields.io/badge/Vercel-111114?style=flat-square" alt="Vercel" />
+---
 
-<br>
+### ⚓ PPA Web Applications
 
-<div align="center">
-<img src="./assets/divider.svg" width="860" alt="" />
-</div>
+Developed web applications for the **Philippine Ports Authority (PPA)** to improve records management and administrative workflows.
+
+The work involved:
+
+* Requirements analysis
+* Application workflow design
+* Records and data management
+* Backend development
+* Stakeholder collaboration
+* Replacing manual processes with software-driven workflows
+
+---
+
+## Tech Stack
+
+### AI / Voice
+
+<p>
+<img src="https://img.shields.io/badge/Whisper-STT-111111?style=flat-square" alt="Whisper" />
+<img src="https://img.shields.io/badge/ElevenLabs-TTS-111111?style=flat-square" alt="ElevenLabs" />
+<img src="https://img.shields.io/badge/LLMs-111111?style=flat-square" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-111111?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square" alt="AI Agents" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=flat-square" alt="Prompt Engineering" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS" />
+</p>
+
+### Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,supabase&theme=dark" alt="Laravel PHP MySQL Supabase" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Git GitHub Docker VS Code" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square" alt="Vercel" />
+</p>
+
+---
 
 ## Experience
 
-**Software Developer — Department of Science and Technology (DOST)** · 2025–2026
-- Built the annual OJT and immersion attendance system handling **200+ students per year** (Laravel, React, TypeScript, MySQL, Inertia.js, Tailwind CSS).
-- Designed the database schema and **role-based access control**, plus automated reports that cut administrative reporting time by **~30%**.
-- Ran requirements sessions with PPA stakeholders, translating manual port operations into working software specifications.
+### Software Developer — Department of Science and Technology
 
-**Full-Stack Web App Developer — Philippine Ports Authority (PPA)** · 2025
-- Automated records, application workflows and data management, replacing manual processing and reducing administrative workload for programme staff.
-- Partnered with stakeholders to analyse requirements and scope deliverables.
+**2025 – 2026**
 
-**Education** — BS Information Technology, Diploma Medical Center College Foundation, Inc.
-Coursework in Web Systems, Database Design, AI/ML Fundamentals, Software Engineering, and Data Structures & Algorithms.
+Built and maintained software systems used for student attendance, reporting, and administrative workflows.
+
+**Highlights**
+
+* Developed an annual OJT and immersion attendance platform serving **200+ students per year**
+* Designed database schemas and role-based access control
+* Built automated reporting workflows
+* Reduced administrative reporting time by approximately **30%**
+* Worked directly with stakeholders to translate operational requirements into software
+
+**Stack:** Laravel · React · TypeScript · MySQL · Inertia.js · Tailwind CSS
+
+---
+
+### Full-Stack Web App Developer — Philippine Ports Authority
+
+**2025**
+
+Developed web applications supporting records management, application workflows, and administrative operations.
+
+Worked with stakeholders to understand existing manual processes and translate them into structured digital workflows.
+
+---
+
+## Education
+
+**Bachelor of Science in Information Technology**
+
+Diploma Medical Center College Foundation, Inc.
+
+Relevant coursework:
+
+`Web Systems` · `Database Design` · `AI/ML Fundamentals` · `Software Engineering` · `Data Structures & Algorithms`
+
+---
+
+## Engineering Philosophy
+
+> **Don't just build demos. Build systems people can actually use.**
+
+I'm particularly interested in the space where AI meets real software engineering.
+
+That means thinking beyond the model itself:
+
+**Input → AI → Retrieval → Tools → Data → Actions → User Experience**
+
+The goal is not simply to make an AI model respond.
+
+The goal is to build a **complete system around it**.
+
+---
+
+## What I'm Looking For
+
+I'm open to:
+
+* 💼 Full-time AI / Software Engineering roles
+* 🤝 Freelance development
+* 🚀 AI product collaborations
+* 🧠 LLM / RAG / Agent projects
+* 🎙️ Voice AI applications
+* 🌎 Remote and hybrid opportunities
+
+Based in **the Philippines**.
+
+---
+
+## Let's Build Something
+
+If you're working on an interesting AI product, developer tool, voice application, or full-stack system, feel free to reach out.
+
+<div align="center">
+
+### AI · Voice · Agents · Full-Stack
+
+**Building useful software with intelligence at the core.**
 
 <br>
 
-<div align="center">
-<img src="./assets/divider.svg" width="860" alt="" />
+<a href="https://github.com/mat-devx">GitHub</a>
+  ·   <a href="https://linkedin.com/in/mathew-valiente-10952319b">LinkedIn</a>
+  ·   <a href="mailto:mathewvaliente20@gmail.com">Email</a>
+
 </div>
-
-## Contact
-
-<a href="https://github.com/mat-devx"><img src="https://img.shields.io/badge/GitHub-mat--devx-111114?style=flat-square" alt="GitHub" /></a> <a href="https://linkedin.com/in/mathew-valiente-10952319b"><img src="https://img.shields.io/badge/LinkedIn-mathew%20valiente-111114?style=flat-square" alt="LinkedIn" /></a> <a href="mailto:mathewvaliente20@gmail.com"><img src="https://img.shields.io/badge/Email-mathewvaliente20-111114?style=flat-square" alt="Email" /></a>
