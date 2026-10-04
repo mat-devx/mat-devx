@@ -1,85 +1,55 @@
-<div align="center">
-  <img src="./assets/banner.svg" width="860" alt="Mathew Valiente — AI Engineer, Voice AI, Full-Stack Developer" />
-  <!-- profile header: monochrome terminal session card -->
-</div>
+![Mathew Valiente — AI Engineer](./assets/banner.svg)
 
-<br>
 
-<div align="center">
+<p align="center">
+  <a href="mailto:mathewvaliente20@gmail.com"><img src="https://img.shields.io/badge/🟢_Open_to_Work-000?style=for-the-badge" alt="Open to work"/></a>
+  <a href="mailto:mathewvaliente20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/mathew-valiente-10952319b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/mat-devx"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-Building voice-first systems and full-stack applications where AI is part of the product, not just a demo.
-
-[![Email](https://img.shields.io/badge/mathewvaliente20@gmail.com-gray?style=flat-square&logo=gmail)](mailto:mathewvaliente20@gmail.com) [![LinkedIn](https://img.shields.io/badge/mathew_valiente-gray?style=flat-square&logo=linkedin)](https://linkedin.com/in/mathew-valiente-10952319b) [![GitHub](https://img.shields.io/badge/mat--devx-gray?style=flat-square&logo=github)](https://github.com/mat-devx)
-
-</div>
-
----
-
-## About
-
-I take ideas from concept to deployment — architecting systems where speech-to-text, conversational models, and retrieval-augmented generation become production features rather than experiments. I care about building software people can actually use, not just demos that showcase capability.
-
-Currently focused on voice AI pipelines, LLM integration, and full-stack applications that make AI accessible through clean UX.
-
-## Featured Work
-
-**[VAL.AI](https://github.com/mat-devx) — Voice-first AI journal**  
-Speak naturally, get AI responses back, with retrieval over your own entries. End-to-end voice UX: Whisper STT → LLM processing → RAG → conversational interface.
-
-**[OJT & Immersion Attendance System](https://github.com/mat-devx) — DOST**  
-Production attendance platform serving 200+ students annually. Built the schema from scratch, implemented role-based access control, and automated reporting workflows that cut administrative time by ~30%.
-
-**[BDocuLink](https://github.com/mat-devx/BDocuLink) — Barangay document management**  
-Resident records and approval workflows moved from paper to structured software.
-
-**[SmartVote](https://github.com/mat-devx/SmartVote) — Voting platform**  
-Ballot construction, candidacy management, and result tabulation system.
-
-## Stack
-
-**Building with**
-
-Voice & AI: `Whisper STT` · `ElevenLabs TTS` · `LLMs` · `RAG` · `Prompt Engineering`
-
-Frontend: `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
-
-Backend: `Laravel` · `PHP` · `Supabase` · `MySQL`
-
-Tools: `Git` · `Docker` · `GitHub Actions` · `Vercel`
-
-**Experienced in**
-
-Full-stack development across Next.js, Laravel, and Supabase ecosystems. Database schema design. Requirements gathering and translating stakeholder needs into working software. AI/ML fundamentals, data structures, software engineering principles.
-
-## What Drives Me
-
-> Don't just build demos. Build systems people can actually use.
-
-The goal isn't to make a model respond — it's to build the complete system around it. That means understanding the problem space, designing clear interfaces, handling edge cases, and shipping software that solves real needs.
-
-I believe AI should feel natural in the product, not bolted on. Voice interfaces should feel conversational. Data retrieval should feel instant. The technical complexity should be invisible to the user.
-
-## Experience
-
-**Software Developer — Department of Science and Technology (DOST)** · 2025–2026  
-Built the annual OJT attendance system handling 200+ students. Designed the database schema, implemented role-based access control, and created automated reports. Learned: shipping production systems under real constraints, working directly with stakeholders, translating operations into software.
-
-**Full-Stack Web App Developer — Philippine Ports Authority (PPA)** · 2025  
-Automated records and workflow systems, replacing manual processes. Partnered with stakeholders to scope requirements and deliver working solutions.
-
-**Education — BS Information Technology** · Diploma Medical Center College Foundation  
-Coursework: Web Systems · Database Design · AI/ML Fundamentals · Software Engineering · Data Structures & Algorithms
-
-## Currently
-
-Working on voice AI systems and exploring better patterns for RAG in production applications. Building projects that demonstrate how AI can enhance real workflows without overwhelming the user experience.
-
-Open to full-time roles (AI/software engineering), freelance projects, and collaborations on voice-first products. Remote or hybrid.
+<p align="center">
+  <i>I build voice-first AI + full-stack apps people actually use — not just demos.</i>
+</p>
 
 ---
 
-<div align="center">
 
-*Building useful software with intelligence at the core.*
+### 🛠️ What I build with
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,laravel,php,supabase,mysql,docker,git,vercel&perline=11" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Voice_AI-Whisper_|_ElevenLabs_|_RAG-000?style=flat-square" alt="Voice AI"/>
+  <img src="https://img.shields.io/badge/Frontend-React_|_Next.js_|_TypeScript-111?style=flat-square" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Backend-Laravel_|_Supabase_|_MySQL-111?style=flat-square" alt="Backend"/>
+</p>
+
+---
+
+### 💼 Experience
+
+**🧪 Software Developer — DOST** `2025–2026`
+> Shipped OJT attendance platform · designed schema + RBAC + auto-reports
+
+**🏛️ Full-Stack Developer — PPA** `2025`
+> Automated manual records & workflows with stakeholders
+
+**🎓 BS Information Technology** — *Diploma Medical Center College Foundation*
+> Web Systems · Databases · AI/ML · Software Engineering
+
+---
+
+### 💬 Currently
+
+🎙️ Building voice AI + RAG patterns for real workflows.
+Open to **full-time AI/software roles**, freelance & collabs.
+
+<p align="center">
+  <a href="mailto:mathewvaliente20@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-mathewvaliente20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's talk"/></a>
+</p>
+
+<p align="center"><i>Don't just build demos. Build systems people can actually use.</i> ✨</p>
+
