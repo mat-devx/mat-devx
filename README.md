@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>I build voice-first AI + full-stack apps people actually use — not just demos.</i>
+  <i>I build voice-first AI + full-stack apps people actually use.</i>
 </p>
 
 ---
@@ -31,13 +31,13 @@
 
 ### 💼 Experience
 
-**🧪 Software Developer — DOST** `2025–2026`
+**🏛️ Full-Stack Developer — PPA** 
 > Shipped OJT attendance platform · designed schema + RBAC + auto-reports
 
-**🏛️ Full-Stack Developer — PPA** `2025`
+**🧪 Software Developer — DOST**  
 > Automated manual records & workflows with stakeholders
 
-**🎓 BS Information Technology** — *Diploma Medical Center College Foundation*
+**🎓 BS Information Technology** — *DMC College Foundation, Inc.*
 > Web Systems · Databases · AI/ML · Software Engineering
 
 ---
@@ -51,5 +51,4 @@ Open to **full-time AI/software roles**, freelance & collabs.
   <a href="mailto:mathewvaliente20@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-mathewvaliente20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's talk"/></a>
 </p>
 
-<p align="center"><i>Don't just build demos. Build systems people can actually use.</i> ✨</p>
-
+<p align="center"><i>Write clean code. Solve real problems. Build with purpose.</i> 💻</p>
